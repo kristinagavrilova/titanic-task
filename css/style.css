@@ -90,6 +90,11 @@ body {
     width: 100%;
 }
 
+.table-row li:first-of-type {
+    text-transform: capitalize;
+    width: 200%;
+}
+
 li {
     list-style-type: none;
     font-size: 14px;
